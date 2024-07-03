@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "DEFINI-tech",
+  "version": "1.0",
+  "description": "an extension to search for word meanings.",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["style.css"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
