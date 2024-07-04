@@ -1,6 +1,6 @@
 # DEFINI-tech
 
-DEFINI-tech is a Chrome extension for searching word meanings, synonyms, and similar words for incorrect inputs. It utilizes the DictionaryAPI for word meanings and the Datamuse API for synonyms and word suggestions.
+DEFINI-tech is a Chrome extension for searching word meanings, synonyms, pronounciations and similar words for incorrect inputs. It utilizes the DictionaryAPI for word meanings and the Datamuse API for synonyms and word suggestions.
 
 ## Demo Video
 
